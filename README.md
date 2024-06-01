@@ -95,3 +95,9 @@ In summary, the overall growth in sales and profit reflects effective strategies
 
 ## Recommendations
 To sustain growth and profitability, the company should focus on investing in high-growth areas like Appliances in the Office Supplies and Consumer segments. It should address declining subcategories, such as Machines, through targeted marketing and sales efforts. Improving performance in underperforming states like San Diego and reallocating resources from low-performing areas to high-growth regions will also be key. Regular monitoring of sales trends and adjustments to strategies will help maintain momentum and drive continued success.
+
+
+---
+
+![](https://github.com/temee0/Interactive-Excel-Sales-Dashboard/blob/main/thank_you.jpg)  
+#### Thank you for taking the time to read through this report.
