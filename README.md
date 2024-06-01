@@ -52,11 +52,31 @@ there was an overall growth of 33.8% from 2016 to 2017, with notable increases i
 
 By states, the overall growth was 22.7%, highlighted by impressive gains in Philadelphia 104.6% and Seattle 178.4%, while Detroit and San Diego faced significant drops of 82.9% and 53.9%. 
 
+### In the Technology category,
+there was an overall growth of 20% from 2016 to 2017, where all the product categories performed well except the machines that saw a 22.1% decline.
+
+By states, the overall growth was 33.9%, Newark and Seattle  had the most impressive growth doing 643.7% and 490.9% respectively, while Lafayette and San Diego faced significant drops of 97.1% and 88.3%.
+
 ## Sales by Customer Segment
 ![](https://github.com/temee0/Interactive-Excel-Sales-Dashboard/blob/main/customer%20segment.jpg)
+### In the Consumer segment,
+there was an overall growth of 12.2% from 2016 to 2017 by product subcategories. The subcategory that performed best was appliances, with a growth rate of 101.8%. The worse performing subcategory was machines which declined by 88.8%.
+
+By states, the overall growth was 14.3% over the same period. Newark, Seattle, and Columbus led the growth with impressive increase of 261.7%, 147.2%, and 132.8%, respectively. However San Diego and Detroit declined significantly by 86.5% and 67.4%, respectively.
+
+### In the Corporate segment,
+there was an overall growth of 16.3% from 2016 to 2017 in the product subcategories. the subcategories that performed best was binders, appliances and accessories. The worse performing subcategories were ccopiers and tables which declined by 56.9% and 46.4%, respectively
+
+By states, there was a 0.3% overall decline over the same period. Lafayette and Lakewood performed poorly, declining by 100% and 86.5%, respectively.
+
+### In the Home Office segment,
+there was an overall growth 60.9% from 2016 to 2017 by product subcategories, this is the customer segment with the highest growth rate. every subcategory performed well except the binders that dropped by 29.9%.
+
+By state, there was a significant growth of 72% over the same period. However, there was a 100% decline in Providence, as there were no sales in the city in the current year.
 
 ## Time Trend Analysis of Sales by Years and Quarters
 ![](https://github.com/temee0/Interactive-Excel-Sales-Dashboard/blob/main/time_trend%20Analysis.jpg)
+
 
 ## Sales by States
 ![](https://github.com/temee0/Interactive-Excel-Sales-Dashboard/blob/main/sales%20Analysis%20.jpg)
