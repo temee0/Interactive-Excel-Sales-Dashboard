@@ -76,7 +76,8 @@ By state, there was a significant growth of 72% over the same period. However, t
 
 ## Time Trend Analysis of Sales by Years and Quarters
 ![](https://github.com/temee0/Interactive-Excel-Sales-Dashboard/blob/main/time_trend%20Analysis.jpg)
-
+As seen on the chart, the business has been on a bull run and has shown better performance, with each quarter and year outperforming the previous one. 
 
 ## Sales by States
 ![](https://github.com/temee0/Interactive-Excel-Sales-Dashboard/blob/main/sales%20Analysis%20.jpg)
+These are the sales in the top 10 states, with New York, Los Angeles, and Seattle leading the list. The business is performing best in these top 10 states.
