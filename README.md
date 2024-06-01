@@ -65,7 +65,7 @@ there was an overall growth of 12.2% from 2016 to 2017 by product subcategories.
 By states, the overall growth was 14.3% over the same period. Newark, Seattle, and Columbus led the growth with impressive increase of 261.7%, 147.2%, and 132.8%, respectively. However San Diego and Detroit declined significantly by 86.5% and 67.4%, respectively.
 
 ### In the Corporate segment,
-there was an overall growth of 16.3% from 2016 to 2017 in the product subcategories. the subcategories that performed best was binders, appliances and accessories. The worse performing subcategories were ccopiers and tables which declined by 56.9% and 46.4%, respectively
+there was an overall growth of 16.3% from 2016 to 2017 in the product subcategories. the subcategories that performed best was binders, appliances and accessories. The worse performing subcategories were copiers and tables which declined by 56.9% and 46.4%, respectively
 
 By states, there was a 0.3% overall decline over the same period. Lafayette and Lakewood performed poorly, declining by 100% and 86.5%, respectively.
 
@@ -81,3 +81,17 @@ As seen on the chart, the business has been on a bull run and has shown better p
 ## Sales by States
 ![](https://github.com/temee0/Interactive-Excel-Sales-Dashboard/blob/main/sales%20Analysis%20.jpg)     
 These are the sales in the top 10 states, with New York, Los Angeles, and Seattle leading the list. The business is performing best in these top 10 states.
+
+## Conclusion
+The current year's financial performance indicates a healthy upward trajectory, with sales increasing by 20.36% to $733,215 and profit rising by 14.24% to $93,439.
+
+The Furniture category grew moderately by 8.3%, with Bookcases and Chairs performing well, while Tables lagged. Office Supplies saw a 33.8% increase, led by Appliances and Binders, though Envelopes and Fasteners declined. The Technology category grew by 20%, except for Machines, which declined significantly.
+
+The Consumer segment grew by 12.2%, with Appliances excelling but Machines falling drastically. The Corporate segment saw a 16.3% increase, with strong performances in Binders, Appliances, and Accessories, while Copiers and Tables declined. The Home Office segment had the highest growth at 60.9%.
+
+Top-performing states in these categories included Newark, Seattle, and Philadelphia, with Newark showing a 643.7% increase in the Technology category. Conversely, San Diego consistently underperformed across various categories, with significant declines in multiple segments.
+
+In summary, the overall growth in sales and profit reflects effective strategies and strong market positioning. Categories like Office Supplies and segments such as Home Office are driving substantial growth. However, certain subcategories and states need attention due to declining performance, particularly Machines in the Consumer segment and overall sales in San Diego. Enhancing performance in lagging subcategories and underperforming states presents opportunities for targeted improvement. By investing in high-performing areas and addressing declines in others, the company can sustain its growth momentum and enhance overall profitability.
+
+## Recommendations
+To sustain growth and profitability, the company should focus on investing in high-growth areas like Appliances in the Office Supplies and Consumer segments. It should address declining subcategories, such as Machines, through targeted marketing and sales efforts. Improving performance in underperforming states like San Diego and reallocating resources from low-performing areas to high-growth regions will also be key. Regular monitoring of sales trends and adjustments to strategies will help maintain momentum and drive continued success.
