@@ -41,7 +41,7 @@ You can interact with the report [here]()
 - The current year profit has increased by **14.24%** compared to the previous year.   
 
 ## Sales by Product Categories
-![](https://github.com/temee0/Interactive-Excel-Sales-Dashboard/blob/main/product%20category.jpg)
+![]()
 ### In the Furniture category, 
 there was an overall growth of 8.3% from 2016 to 2017 by product subcategories. The subcategories that performed best were Bookcases and Chairs, with growth rates of 14.3% and 13.9%, respectively. However, Tables showed the lowest growth at just 0.1%.
 
@@ -58,7 +58,7 @@ there was an overall growth of 20% from 2016 to 2017, where all the product cate
 By states, the overall growth was 33.9%, Newark and Seattle  had the most impressive growth doing 643.7% and 490.9% respectively, while Lafayette and San Diego faced significant drops of 97.1% and 88.3%.
 
 ## Sales by Customer Segment
-![](https://github.com/temee0/Interactive-Excel-Sales-Dashboard/blob/main/customer%20segment.jpg)
+![]()
 ### In the Consumer segment,
 there was an overall growth of 12.2% from 2016 to 2017 by product subcategories. The subcategory that performed best was appliances, with a growth rate of 101.8%. The worse performing subcategory was machines which declined by 88.8%.
 
@@ -75,9 +75,9 @@ there was an overall growth 60.9% from 2016 to 2017 by product subcategories, th
 By state, there was a significant growth of 72% over the same period. However, there was a 100% decline in Providence, as there were no sales in the city in the current year.
 
 ## Time Trend Analysis of Sales by Years and Quarters
-![](https://github.com/temee0/Interactive-Excel-Sales-Dashboard/blob/main/time_trend%20Analysis.jpg)
+![](https://github.com/temee0/Interactive-Excel-Sales-Dashboard/blob/main/time_trend%20Analysis.jpg)   
 As seen on the chart, the business has been on a bull run and has shown better performance, with each quarter and year outperforming the previous one. 
 
 ## Sales by States
-![](https://github.com/temee0/Interactive-Excel-Sales-Dashboard/blob/main/sales%20Analysis%20.jpg)
+![](https://github.com/temee0/Interactive-Excel-Sales-Dashboard/blob/main/sales%20Analysis%20.jpg)     
 These are the sales in the top 10 states, with New York, Los Angeles, and Seattle leading the list. The business is performing best in these top 10 states.
