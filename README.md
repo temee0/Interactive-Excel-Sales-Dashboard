@@ -31,7 +31,7 @@ Welcome to the interactive Excel sales dashboard of a fictional store. This proj
 - Time trend analysis of sales by years and quarters
 - Sales by states
   
-You can interact with the report [here](https://github.com/temee0/Interactive-Excel-Sales-Dashboard/blob/main/Interactive%20Sales%20Dashboard%20.xlsx)      
+You can interact with the report [here](https://docs.google.com/file/d/1iah2ou8SLuVANnf_RPN15xS_5xuqs4J0/edit?usp=docslist_api&filetype=msexcel)      
 
 ![](https://github.com/temee0/Interactive-Excel-Sales-Dashboard/blob/main/full%20Dashboard.jpg)
 - The total sales for the current year is **$733,215**.   
